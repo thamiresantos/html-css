@@ -1,0 +1,52 @@
+@charset "UTF-8";
+body{
+    margin: 0px
+}
+
+/*header*/
+header{
+    color: white;
+    background-color: black ;
+    height: 260px;
+    margin: 0px;
+
+}
+
+/*titulo*/
+h1{
+    font-family: Passion One;
+    font-size: 136px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px;
+    padding: 13px;
+    
+
+}
+
+/*nome do autor*/
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+h2 > a{
+    color: white;
+    text-decoration: none;
+}
+
+h2 > a:hover{
+    text-decoration: underline;
+}
+
+/*configuração padrão do conteúdo*/
+section{
+    font-family: Sriracha;
+    font-size: 47px;
+    line-height: 95.6px;
+    margin-left: 20px;
+}
+
+
