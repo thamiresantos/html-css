@@ -24,6 +24,8 @@
 
 2. [Desafio 02](https://thamiresantos.github.io/html-css/desafio/desafio02/) : site simples utilizando links.
 
-3. [Desafio 10](https://thamiresantos.github.io/html-css/desafio/desafio10/android.html) : criação de um site completo com HTML e CSS sobre a história do Mascote do Android.
+3. [Desafio 10](https://thamiresantos.github.io/html-css/desafio/desafio10/android.html) : criação de um site completo com HTML e CSS sobre a história do Mascote do Android..
+
+4. [Desafio 12](https://thamiresantos.github.io/projeto-cordel/) : Site com o poema "Cordel Moderno" de Milton Duarte.
 
  
