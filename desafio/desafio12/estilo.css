@@ -1,52 +1,83 @@
 @charset "UTF-8";
-body{
-    margin: 0px
+
+/*configurações gerais*/
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/*????*/
+html,body{
+    min-height: 100%vh; /*tamanho minimo*/
 }
 
 /*header*/
 header{
-    color: white;
     background-color: black ;
+    color: white;
     height: 260px;
-    margin: 0px;
-
+    text-align: center;
+    
 }
 
 /*titulo*/
-h1{
-    font-family: Passion One;
-    font-size: 136px;
+header > h1{
     font-weight: bold;
-    text-align: center;
-    margin: 0px;
-    padding: 13px;
-    
+    font-variant: small-caps;
+    padding-top: 50px;
 
 }
 
 /*nome do autor*/
-h2 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+header > p{
     font-size: 16px;
-    text-align: center;
-    margin: 0px;
-    padding: 0px;
-}
-h2 > a{
-    color: white;
-    text-decoration: none;
+    padding-bottom: 50px;
+   
 }
 
-h2 > a:hover{
+/* links*/
+ a{
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+a:hover{
     text-decoration: underline;
 }
 
-/*configuração padrão do conteúdo*/
-section{
-    font-family: Sriracha;
-    font-size: 47px;
-    line-height: 95.6px;
-    margin-left: 20px;
+/*configurações gerais das section*/
+section {
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    padding-left: 30px;
+    line-height: 2em;
+    
+}
+
+/*configuração das section 'normais'*/
+section.normal{
+    background-color: white;
+    color: black;
+
+}
+
+/*configuração da section com as imagens*/
+section.imagem {
+    color: white;
+}
+
+section.imagem > p {
+    width: 400px;
+    background-color: rgba(0, 0, 0, 0.308);
+}
+
+/*rodapé*/
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
 }
 
 
