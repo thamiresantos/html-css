@@ -1,6 +1,6 @@
 ## Exercícios e Desafios realizados durante o Curso de HTML5 e CSS3 do CursoemVideo 📚
 
-> Status do curso : Em andamento 3/5
+> Status do curso : Em andamento 4/5
 
 * ### Exercícios 
 
