@@ -6,6 +6,8 @@
     padding: 0px;
 }
 
+
+
 body, html {
     background-color: lightblue;
 }
@@ -20,8 +22,31 @@ header > h1 {
     text-align: center;
 }
 
-menu{
+/*configurações para o icon do menu hambuginho aparecer*/
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 48
+  }
+
+  span#burger{
+    background-color: rgb(44, 43, 43);
+    color: white;
     display: block;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer; /* para o cursor virar uma mãozinha */
+  }
+
+  span#burger:hover {
+    background-color: white;
+    color: black;
+  }
+
+menu{
+    display: none;
 }
 
 menu > ul {
