@@ -94,9 +94,8 @@ Projeto final do curso, desenvolvido como um **portfólio pessoal**, reunindo os
 ## ❤️ Agradecimentos
 Este repositório representa uma jornada de aprendizado iniciada em **2022**, com o primeiro contato prático com HTML e CSS, e concluída em **2025**, com a finalização dos **cinco módulos do curso de HTML5 e CSS3**.
 
-Agradecimento especial ao **Curso em Vídeo** e ao professor **Gustavo Guanabara**, pelo conteúdo acessível, didático e de alta qualidade, que torna o aprendizado de programação possível para milhares de pessoas.
+Agradecimento especial ao **Curso em Vídeo** e ao professor **Gustavo Guanabara**, pelo conteúdo acessível, didático e de alta qualidade, que torna o aprendizado de programação possível para milhares de pessoas. 🚀
 
-Este repositório faz parte dessa trajetória 🚀
 
 ---
 ### © 2022-2025 💜
